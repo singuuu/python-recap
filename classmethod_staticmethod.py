@@ -20,4 +20,3 @@ ClassTest.class_method()
 
 ClassTest.static_method()
 
-
